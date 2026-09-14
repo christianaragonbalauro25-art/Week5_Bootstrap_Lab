@@ -1,0 +1,8 @@
+#multimedia {
+    text-align: center;
+}
+
+#multimedia img,
+#multimedia video {
+    max-width: 100%;
+}
